@@ -6,11 +6,7 @@ $feed ->set_cache_location();
 $feed->set_cache_duration();
 //$feed->set_item_limit(3)
 ?>
-<!-- http://www.goal.com/en-ng/news/1
-http://e00-marca.uecdn.es/rss/en/footbal/real-madrid.xml
-http://www.espn.com/soccer/feeds/
-rss.nytimes.com/services/xml/rss/nyt/Africa.xml
-http://www.middleeasteye.net/rss -->
+
 
 <!DOCTYPE html>
 <html>
